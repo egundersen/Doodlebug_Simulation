@@ -1,2 +1,9 @@
-﻿  DoodleBug.cpp
-  Doodlebug_Simulation.vcxproj -> C:\Users\Erik\source\repos\Doodlebug_Simulation\Debug\Doodlebug_Simulation.exe
+﻿  Source.cpp
+c:\users\erik\documents\github\doodlebug_simulation\doodlebug_simulation\source.cpp(65): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Organism.cpp
+c:\users\erik\documents\github\doodlebug_simulation\doodlebug_simulation\organism.cpp(74): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\erik\documents\github\doodlebug_simulation\doodlebug_simulation\organism.cpp(137): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  DoodleBug.cpp
+  Ant.cpp
+  Generating Code...
+  Doodlebug_Simulation.vcxproj -> C:\Users\Erik\Documents\GitHub\Doodlebug_Simulation\Debug\Doodlebug_Simulation.exe
